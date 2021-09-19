@@ -1,8 +1,7 @@
 {
-  "baseUrl": "http://localhost:3000",
+  "baseUrl": "https://github.com",
   "experimentalStudio": true,
   "env": {
     "test": "Learn React"
-  },
-  "video": false
+  }
 }
